@@ -1,0 +1,20 @@
+{
+    "version": 8,
+    "sources": {
+      "ma-source": {
+        "type": "vector",
+        "tiles": [
+          "http://localhost:8000/tiles/{z}/{x}/{y}.mvt"
+        ]
+      }
+    },
+    "layers": [
+      {
+        "id": "ma-couche",
+        "type": "line",
+        "source": "ma-source",
+        "source-layer": "departements"
+      }
+    ]
+  }
+  
