@@ -1,6 +1,6 @@
 # django_vector_tiles_tutorial
 
-This project was done following the instructions of a [Makina Corpus tutorial](https://makina-corpus.com/blog/metier/2016/generer-des-tuiles-vectorielles-avec-django). This is a complete working solution where we've completed with some missing files (like url files) in the tutorial and some docstrings
+This project was done following the instructions of a [Makina Corpus tutorial](https://makina-corpus.com/blog/metier/2016/generer-des-tuiles-vectorielles-avec-django). This is a working solution where we've completed with some missing files (like url files) in the tutorial and some docstrings
 
 The requirements are :
 
